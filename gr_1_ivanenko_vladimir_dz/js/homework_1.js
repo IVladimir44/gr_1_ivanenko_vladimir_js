@@ -1,0 +1,21 @@
+const name = 'Vladimir';
+const secondName = 'Ivanenko';
+const gender = 'male';
+const yearOfBorn = '2003';
+let city = 'Kramatorsk';
+let age = '18';
+let profession = 'full stack developer';
+let education = 'secondary';
+let height = '173cm';
+let weight = '62kg';
+
+console.log('My name is ' + name);
+console.log('My second name is ' + secondName);
+console.log('My gender is ' + gender);
+console.log('I was born in ' + yearOfBorn);
+console.log('I live in ' + city);
+console.log('I am ' + age);
+console.log('I am a ' + profession);
+console.log('I have ' + education + ' education');
+console.log('My height is ' + height);
+console.log('My weight is ' + weight);

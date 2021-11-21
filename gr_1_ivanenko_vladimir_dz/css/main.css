@@ -1,0 +1,27 @@
+.user_card {
+    width: 420px;
+    height: 250px;
+    display: grid;
+    margin: 20px;
+    padding: 5px;
+    border: solid 2px rgb(199, 139, 255) ;
+}
+
+.user_card {
+    background: url(../img/user_img.png) no-repeat 80% 22%;
+    background-size: 100px;
+    background-color: rgb(247, 241, 247);
+}
+
+button {
+    width: 95px;
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5px;
+    border: 2px solid rgb(199, 139, 255);
+    background-color: rgb(233, 210, 255);
+}
+
+button:hover {
+    color: red;
+}
